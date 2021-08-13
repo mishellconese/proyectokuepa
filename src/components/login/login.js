@@ -1,5 +1,5 @@
 import React from "react";
-import {Link} from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import '../login/login.css';
 import imalog from '../../utils/images/imagenlogin.PNG';
 
@@ -11,14 +11,14 @@ function Login (){
               <div className="onebox">
                 <div><h6>Nombre de usuario</h6></div>
                 <input
-                  type="text"
+                  type="email"
                   placeholder="Ingrese su nombre de usuario"
                 />
               </div>
               <div className="onebox">
                 <div><h6>Contraseña</h6></div>
                 <input
-                  type="text"
+                  type="password"
                   placeholder="Ingrese su contraseña"
                 />
               </div>

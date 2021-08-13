@@ -15,7 +15,7 @@ function App() {
     <Router>
       <Header/>
       <Switch>
-        <Route path="/" component={Login}/>
+        <Route path="/" exact component={Login}/>
         <Route path="/home" exact component={Home}/>
         <Route path="/registro">
           <div className="container p-14">
@@ -23,7 +23,7 @@ function App() {
               <Links />
             </div>
             <ToastContainer />
-          </div>
+          </div> 
         </Route>
       </Switch>
       <Footer/>

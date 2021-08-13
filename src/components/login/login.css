@@ -34,9 +34,18 @@ input{
     border-radius: 10px;
     border-color: darkgray;
     width: 521px;
-    height: 35px;
     opacity: 50%;
     margin-bottom: 10px;
+    align-self: center;
+    display: flex;
+}
+::placeholder{
+    font-size: 20px;
+    line-height: 20px;
+    border: 1px solid tomato ;
+    vertical-align: middle;
+    margin-bottom: 15px;
+
 }
 
 .inicio{
