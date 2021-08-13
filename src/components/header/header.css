@@ -1,0 +1,23 @@
+.head {
+    background-color: white;
+     height: 70px;
+     width: auto;
+ }
+ 
+ .imagenkuepa {
+     margin-left: 10px;
+     width: 140px;
+     height: 50px;
+ }
+ 
+ .volver {
+     margin-left: 970px;
+     margin-top: 20px;
+     height: 35px;
+     width: 100px;
+     background-color: #FF671B;
+     border: 1px solid #FF671B;
+     font-weight: bold;
+     font-family: Gotham, 'Montserrat', sans-serif;
+     color: white;
+ }

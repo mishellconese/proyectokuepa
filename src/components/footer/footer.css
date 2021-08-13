@@ -1,0 +1,19 @@
+footer{
+    background-color: #202020;
+    width: auto;
+    height: 10vh;
+}
+
+.logoOscuro{
+    width: 90px;
+    height: 30px;
+    margin-top: 15px;
+    margin-left: 40px;
+}
+
+.copy{
+    margin-top: -25px;
+    margin-left: 970px;
+    font-family: Gotham, 'Montserrat', sans-serif;
+    color: #555;
+}
