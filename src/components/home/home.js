@@ -3,7 +3,7 @@ import './home.css';
 import { Link } from 'react-router-dom'
 import egresados from '../../utils/images/egresados.jpg';
 
-function Home (){
+function Home(){
     return(
             <div className='home'>
                 <div className='conteneodr'>

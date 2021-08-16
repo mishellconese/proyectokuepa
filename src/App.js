@@ -7,7 +7,7 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Header from "./components/header/header";
 import Footer from "./components/footer/footer";
-import Home from "./components/home/home";
+import Home from "./components/home/Home";
 import Login from "./components/login/login"
 import Cerrar from "./components/cerrar/cerrar"
 
@@ -17,6 +17,7 @@ function App() {
       <Header/>
       <Switch>
         <Route path="/" exact component={Login}/>
+        <Route path="/" component={Login}/>
         <Route path="/cerrar" exact component={Cerrar}/>
         <Route path="/home" exact component={Home}/>
         <Route path="/registro">
