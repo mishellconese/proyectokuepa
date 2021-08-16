@@ -49,7 +49,7 @@ const LinksForm = (props) => {
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [props.currentId]);
-
+  
   return (
     <form onSubmit={handleSubmit} className="card card-body border-primary">
 
@@ -82,104 +82,104 @@ const LinksForm = (props) => {
       </div>
       
       <div className="form-group">
-        <textarea
+        <input
           rows="1"
           className="form-control"
           placeholder="Teléfono"
           name="telefono"
           value={values.telefono}
           onChange={handleInputChange}
-        ></textarea>
+        ></input>
       </div>
       <div className="form-group">
-        <textarea
+        <input
           rows="1"
           className="form-control"
           placeholder="Dirección actual"
           name="direccion"
           value={values.direccion}
           onChange={handleInputChange}
-        ></textarea>
+        ></input>
       </div>
       <div className="form-group">
-        <textarea
+        <input
           rows="1"
           className="form-control"
           placeholder="Correo electronico"
           name="correo"
           value={values.correo}
           onChange={handleInputChange}
-        ></textarea>
+        ></input>
       </div>
       <div className="form-group">
-        <textarea
+        <input
           rows="1"
           className="form-control"
           placeholder="Programa"
           name="programa"
           value={values.programa}
           onChange={handleInputChange}
-        ></textarea>
+        ></input>
       </div>
       <div className="form-group">
-        <textarea
+        <input
           rows="1"
           className="form-control"
           placeholder="Periodo de egreso"
           name="egreso"
           value={values.egreso}
           onChange={handleInputChange}
-        ></textarea>
+        ></input>
       </div>
       <div className="form-group">
-        <textarea
+        <input
           rows="1"
           className="form-control"
-          placeholder="Trabaja actualmente enfocado a su egreso"
+          placeholder="Trabaja enfocado al egreso"
           name="trabajo"
           value={values.trabajo}
           onChange={handleInputChange}
-        ></textarea>
+        ></input>
       </div>
       <div className="form-group">
-        <textarea
+        <input
           rows="1"
           className="form-control"
-          placeholder="Razón por las cual no se ha podido ubicar laboralmete"
+          placeholder="Impedimento laboral"
           name="razon"
           value={values.razon}
           onChange={handleInputChange}
-        ></textarea>
+        ></input>
       </div>
       <div className="form-group">
-        <textarea
+        <input
           rows="1"
           className="form-control"
           placeholder="Salario base"
           name="salario"
           value={values.salario}
           onChange={handleInputChange}
-        ></textarea>
+        ></input>
       </div>
       <div className="form-group">
-        <textarea
+        <input
           rows="1"
           className="form-control"
           placeholder="Tipo de contrato"
           name="contrato"
           value={values.contrato}
           onChange={handleInputChange}
-        ></textarea>
+        ></input>
       </div>
       <div className="form-uno">
-        <textarea
+        <input
           rows="1"
           className="form-control"
           placeholder="Contacto adicional"
           name="contacto"
           value={values.contacto}
           onChange={handleInputChange}
-        ></textarea>
+        ></input>
       </div>
 
       <button className="btn btn-primary btn-block">

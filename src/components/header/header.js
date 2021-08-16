@@ -7,7 +7,6 @@ function Header (){
         <header>
             <div className='head'>
                 <img className='imagenkuepa' src={logokuepa} alt="logokuepa" />
-                
             </div>
         </header>
     )

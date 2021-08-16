@@ -1,0 +1,23 @@
+.cerrar{
+    padding-top: 70px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    background-color: gainsboro;
+    width: 50%;
+    height: 70vh;
+    text-align: center;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.sesion {
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+.uno{
+    border: 1px solid goldenrod;
+    color: green;
+}
+
