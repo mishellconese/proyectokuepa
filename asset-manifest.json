@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/proyectokuepa/static/css/main.082e1f69.chunk.css",
+    "main.js": "/proyectokuepa/static/js/main.4bf847f8.chunk.js",
+    "main.js.map": "/proyectokuepa/static/js/main.4bf847f8.chunk.js.map",
+    "runtime-main.js": "/proyectokuepa/static/js/runtime-main.13dc6527.js",
+    "runtime-main.js.map": "/proyectokuepa/static/js/runtime-main.13dc6527.js.map",
+    "static/css/2.ff5a536a.chunk.css": "/proyectokuepa/static/css/2.ff5a536a.chunk.css",
+    "static/js/2.a1814ef9.chunk.js": "/proyectokuepa/static/js/2.a1814ef9.chunk.js",
+    "static/js/2.a1814ef9.chunk.js.map": "/proyectokuepa/static/js/2.a1814ef9.chunk.js.map",
+    "index.html": "/proyectokuepa/index.html",
+    "static/css/2.ff5a536a.chunk.css.map": "/proyectokuepa/static/css/2.ff5a536a.chunk.css.map",
+    "static/css/main.082e1f69.chunk.css.map": "/proyectokuepa/static/css/main.082e1f69.chunk.css.map",
+    "static/js/2.a1814ef9.chunk.js.LICENSE.txt": "/proyectokuepa/static/js/2.a1814ef9.chunk.js.LICENSE.txt",
+    "static/media/egresados.75f25458.jpg": "/proyectokuepa/static/media/egresados.75f25458.jpg",
+    "static/media/imagenlogin.91598ce7.PNG": "/proyectokuepa/static/media/imagenlogin.91598ce7.PNG",
+    "static/media/logoOscuro.9cf1b3e4.JPG": "/proyectokuepa/static/media/logoOscuro.9cf1b3e4.JPG",
+    "static/media/logokuepa.f8e9a949.PNG": "/proyectokuepa/static/media/logokuepa.f8e9a949.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13dc6527.js",
+    "static/css/2.ff5a536a.chunk.css",
+    "static/js/2.a1814ef9.chunk.js",
+    "static/css/main.082e1f69.chunk.css",
+    "static/js/main.4bf847f8.chunk.js"
+  ]
+}
