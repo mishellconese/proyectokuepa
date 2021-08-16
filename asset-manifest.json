@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/proyectokuepa/static/css/main.082e1f69.chunk.css",
-    "main.js": "/proyectokuepa/static/js/main.4bf847f8.chunk.js",
-    "main.js.map": "/proyectokuepa/static/js/main.4bf847f8.chunk.js.map",
+    "main.js": "/proyectokuepa/static/js/main.bfab52f9.chunk.js",
+    "main.js.map": "/proyectokuepa/static/js/main.bfab52f9.chunk.js.map",
     "runtime-main.js": "/proyectokuepa/static/js/runtime-main.13dc6527.js",
     "runtime-main.js.map": "/proyectokuepa/static/js/runtime-main.13dc6527.js.map",
     "static/css/2.ff5a536a.chunk.css": "/proyectokuepa/static/css/2.ff5a536a.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.ff5a536a.chunk.css",
     "static/js/2.a1814ef9.chunk.js",
     "static/css/main.082e1f69.chunk.css",
-    "static/js/main.4bf847f8.chunk.js"
+    "static/js/main.bfab52f9.chunk.js"
   ]
 }
