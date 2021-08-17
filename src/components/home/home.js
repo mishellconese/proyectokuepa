@@ -1,7 +1,7 @@
 import React from "react";
 import './home.css';
 import { Link } from 'react-router-dom'
-import egresados from '../../utils/images/egresados.jpg';
+import egresados from '../../utils/images/imagenlogin.PNG';
 
 function Home(){
     return(

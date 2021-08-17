@@ -1,18 +1,18 @@
 # Proyecto para Kuepa en funcion de egresados
 
-This project is developed with Ract and FireBase. The main objective is to find a web solution in order to allow the registration of graduated students with complete data for post-admission follow-up. 12 necessary data are requested in a form which connects to the database in FireBase in this way allowing the observation and editing of the entered data.
+Este proyecto se desarrolla con Ract y FireBase. El principal objetivo es encontrar una solución web que permita el registro de egresados ​​con datos completos para el seguimiento post-admisión. Se solicitan 12 datos necesarios en un formulario que se conecta a la base de datos en FireBase de esta manera permitiendo la observación y edición de los datos ingresados.
 
 ## Proyect status
 
-The project is adapted for its main functionality aimed at the main objective, the registry.
+El proyecto está adaptado por su funcionalidad principal orientada al objetivo principal, el registro.
 
-Other functionalities and extra adaptations that we wanted to give are in a process of 70% completed.
+Otras funcionalidades y adaptaciones extra que queríamos dar están en un proceso de 70% completado.
 
-## Technologies
-A list of technologies used within the project:
+## Tecnologías
+Lista de las tecnologías aplicadas en este proyecto:
 
-+ __React__: Version ^17.0.2.
-* __Firebase__: Version ^8.8.0
++ [__React__]:(https://es.reactjs.org/) Version ^17.0.2.
+* [__Firebase__](https://console.firebase.google.com/u/0/project/egresados-a544f/firestore/data/~2Flinks~2F9jhRBQOH91moknnoRdzs): Version ^8.8.0
 - __CSS__
 
 ## Colaboration
