@@ -18,6 +18,6 @@ A list of technologies used within the project:
 ## Colaboration
 
 + [Mishell Uribe](https://github.com/mishellconese)
-+ _Teachers_
-* _Monitors_
-- _Classmates_
++ Teachers
+* Monitors
+- Classmates
