@@ -17,7 +17,6 @@ A list of technologies used within the project:
 ***
 
 ## Colaboration
-***
 
 *Teachers
 *Monitors
