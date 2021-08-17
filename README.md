@@ -11,12 +11,12 @@ Other functionalities and extra adaptations that we wanted to give are in a proc
 ## Technologies
 A list of technologies used within the project:
 
--[React]: Version ^17.0.2.
--[Firebase]: Version ^8.8.0
++[React]: Version ^17.0.2.
+*[Firebase]: Version ^8.8.0
 -[CSS]
 
 ## Colaboration
 
--Teachers
--Monitors
++Teachers
+*Monitors
 -Classmates
