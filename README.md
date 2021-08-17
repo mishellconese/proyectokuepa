@@ -9,9 +9,8 @@ The project is adapted for its main functionality aimed at the main objective, t
 Other functionalities and extra adaptations that we wanted to give are in a process of 70% completed.
 
 ## Technologies
-
-A list of technologies used within the project:
 ***
+A list of technologies used within the project:
 
 *[React]: Version ^17.0.2.
 *[Firebase]: Version ^8.8.0
