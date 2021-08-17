@@ -11,7 +11,7 @@ Otras funcionalidades y adaptaciones extra que queríamos dar están en un proce
 ## Tecnologías
 Lista de las tecnologías aplicadas en este proyecto:
 
-+ [__React__]:(https://es.reactjs.org/) Version ^17.0.2.
++ [__React__] (https://es.reactjs.org/): Version ^17.0.2.
 * [__Firebase__](https://console.firebase.google.com/u/0/project/egresados-a544f/firestore/data/~2Flinks~2F9jhRBQOH91moknnoRdzs): Version ^8.8.0
 - __CSS__
 
